@@ -1,4 +1,4 @@
-# arasgungore.github.io
+# mohamedrizki.github.io
 
 My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://mohamedrizki.github.io/Portfolio-Mohamed-RIZKI/).
 
