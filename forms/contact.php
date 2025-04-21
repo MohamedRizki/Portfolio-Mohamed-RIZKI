@@ -1,6 +1,6 @@
 <?php
 // ======= Configuration =======
-$to = 'Mohamedrizki07@gmail.com'; // Remplace par ton email de réception
+$to = 'Mohamedrizki07@gmail.com'; 
 
 // ======= Récupération des données du formulaire =======
 $name    = isset($_POST['name']) ? htmlspecialchars(trim($_POST['name'])) : '';
